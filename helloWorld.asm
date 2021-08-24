@@ -1,5 +1,5 @@
 ;Date 24-08-2021
-;compile with NASM -f hello.asm -o hello
+;compile with NASM -f helloWorld.asm -o hello
 ;link with ld -m elf_i386 hello.o -o hello
 SECTION .data
 message   db   "Hello 0x7EVEN",0xa           ;here we go
