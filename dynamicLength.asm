@@ -1,3 +1,5 @@
+; problem with previous code (hello world) was the length of string was hard coded 
+; we cant chage the length once it's declared, so it is important to calculate as required.. 
 SECTION .data
 message         db      "this is unknown length",0xa    ;here we go again : )
 
