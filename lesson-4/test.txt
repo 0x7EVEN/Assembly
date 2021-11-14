@@ -1,0 +1,18 @@
+navigation commands for VIM :
+	h is for <- this direction
+	j is for down 
+	k is for up 
+	l is for right (->) 
+	
+	navigating entire line 
+	cntr + e is for moving window UP with single line
+	cntr + y is for moving window DOWN with single line
+	$ is for moving to the END of the line  
+	^ is for moving to the BEGINNING of the line 
+
+	navigating with word
+	b is for beginning of the PREVIOUS word
+	e is for END of this word 
+	w is for BEGINNIG of next word 
+
+
