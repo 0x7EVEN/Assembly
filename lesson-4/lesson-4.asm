@@ -33,5 +33,5 @@ nextchar:
 finish:
 	sub 	eax , ebx
 	pop	ebx
-	ret	
-
+	ret
+	
